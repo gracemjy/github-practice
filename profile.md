@@ -1,3 +1,4 @@
-cat
-dog
-dinosaur
+cat    
+dog    
+dinosaur    
+mango
